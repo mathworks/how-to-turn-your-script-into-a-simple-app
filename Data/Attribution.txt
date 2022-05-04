@@ -1,0 +1,25 @@
+This folder contains modified versions of one or more files from the Climate Data Toolbox.
+
+Original source code:
+https://github.com/chadagreene/CDT
+
+This publication:
+Chad A. Greene, Kaustubh Thirumalai, Kelly A. Kearney, José Miguel Delgado, Wolfgang Schwanghart, Natalie S. Wolfenbarger, Kristen M. Thyng, David E. Gwyther, Alex S. Gardner, and Donald D. Blankenship (2019). The Climate Data Toolbox for MATLAB. Geochemistry, Geophysics, Geosystems, 20, 3774-3781. doi:10.1029/2019GC008392
+
+
+----------------------
+
+
+This folder contains data downloaded from the Optimum Interpoation SST product of the National Centers for Environmental Information (NCEI) 
+at the National Oceanic and Atmospheric Administration (NOAA).
+
+Data set description and access:
+https://www.ncei.noaa.gov/products/optimum-interpolation-sst
+or
+https://catalog.data.gov/dataset/noaa-optimum-interpolation-oi-sst-v2
+
+Raw data downloaded from this location:
+https://www.ncei.noaa.gov/data/sea-surface-temperature-optimum-interpolation/v2.1/access/avhrr/
+
+This publication:
+Huang, B., C. Liu, V. Banzon, E. Freeman, G. Graham, B. Hankins, T. Smith, and H.-M. Zhang, 2020: Improvements of the Daily Optimum Interpolation Sea Surface Temperature (DOISST) Version 2.1, Journal of Climate, 34, 2923-2939. doi: 10.1175/JCLI-D-20-0166.1

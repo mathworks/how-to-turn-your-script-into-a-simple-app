@@ -1,0 +1,8 @@
+This folder contains modified versions of one or more files from the Climate Data Toolbox.
+
+Original source code:
+https://github.com/chadagreene/CDT
+
+This publication:
+Chad A. Greene, Kaustubh Thirumalai, Kelly A. Kearney, José Miguel Delgado, Wolfgang Schwanghart, Natalie S. Wolfenbarger, Kristen M. Thyng, David E. Gwyther, Alex S. Gardner, and Donald D. Blankenship (2019). The Climate Data Toolbox for MATLAB. Geochemistry, Geophysics, Geosystems, 20, 3774-3781. doi:10.1029/2019GC008392
+
