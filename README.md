@@ -19,7 +19,7 @@ This demonstration was built and tested with R2022a. It will likely mostly run i
 Fun things to play with:
 * SeaSurfaceTemperatureExplorer.mlx - This is the Live Script we build in the seminar
 * SearSurfaceTemperatureAnimation.mlx - See how animation works in the Live Editor
-* App Designer App\SeaSurfaceTemperatureExplorerAppDesigner.mlapp - The App Designer version of the app. Manually add the folder "Modified CDT Files" for this to work.
+* SeaSurfaceTemperatureExplorerAppDesigner.mlapp - Double click to open in App Designer. Right click>Run or enter name in command window to run.
 * helpers\trendmap.m, helpers\pickpoint.m: See how we set the custom ButtonDownFcn.
 
 Copyright 2022 The MathWorks, Inc.
