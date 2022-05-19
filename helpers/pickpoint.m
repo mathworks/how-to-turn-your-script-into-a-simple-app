@@ -1,7 +1,7 @@
 function [x,y] = pickpoint(obj,ev)
 % PICKPOINT Callback to interactively pick and mark a point on a plot
 %
-% PICKPOINT is not meant be called directly. Just set is at the
+% PICKPOINT is not meant be called directly. Just set it as the
 % ButtonDownFcn on the object you want people to click on - typically an
 % axes or an image.
 %
