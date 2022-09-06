@@ -2,10 +2,11 @@
 
 [![View How to turn your script into a simple app (Seminar content) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/111190-how-to-turn-your-script-into-a-simple-app-seminar-content)
 
+**[Open in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=mathworks/how-to-turn-your-script-into-a-simple-app&file=SeaSurfaceTemperatureExplorer.mlx&project=ScriptToApp.prj)** - Open a copy of this code directly in MATLAB Online, no download required!
+
+
 ## Overview
 Custom-built apps are a great way to teach a concept, to automate common tasks, or to provide dashboards for interactively exploring complex data sets. And now with interactive controls in the Live Editor, if you can write a script, you can write an app. This talk demonstrates how to convert MATLAB scripts into simple notebook-style apps.
-
-![Screenshot](Sea Surface Temperature Explorer Screenshot.png)
 
 This demonstration covers the following concepts:
 * Replacing literal values with interactive controls in Live Scripts
