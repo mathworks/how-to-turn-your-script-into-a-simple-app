@@ -16,6 +16,10 @@ This demonstration covers the following concepts:
 
 This demonstration was built and tested with R2022a. It will likely mostly run in R2021a and R2021b, except for the custom ButtonDownFcn.
 
+This submission contains the companion code for the video "[How to turn your script into a simple app](https://www.mathworks.com/videos/how-to-turn-your-script-into-a-simple-app-1653572686561.html)". 
+
+
+
 ## Instructions
 * Open the project, ScriptToApp.prj. This will set up your paths
 
