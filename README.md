@@ -1,7 +1,5 @@
 # How to Turn Your Script into a Simple App
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/how-to-turn-your-script-into-a-simple-app&project=ScriptToApp.prj&file=SeaSurfaceTemperatureExplorer.mlx&line=1)
-
-[![View How to turn your script into a simple app (Seminar content) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/111190-how-to-turn-your-script-into-a-simple-app-seminar-content)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/how-to-turn-your-script-into-a-simple-app&project=ScriptToApp.prj&file=SeaSurfaceTemperatureExplorer.mlx&line=1) [![View How to turn your script into a simple app (Seminar content) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/111190-how-to-turn-your-script-into-a-simple-app-seminar-content)
 
 ## Overview
 Custom-built apps are a great way to teach a concept, to automate common tasks, or to provide dashboards for interactively exploring complex data sets. And now with interactive controls in the Live Editor, if you can write a script, you can write an app. This talk demonstrates how to convert MATLAB scripts into simple notebook-style apps.
@@ -15,6 +13,9 @@ This demonstration covers the following concepts:
 This demonstration was built and tested with R2022a. It will likely mostly run in R2021a and R2021b, except for the custom ButtonDownFcn.
 
 This submission contains the companion code for the video "[How to turn your script into a simple app](https://www.mathworks.com/videos/how-to-turn-your-script-into-a-simple-app-1653572686561.html)". 
+
+Try it now: [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/how-to-turn-your-script-into-a-simple-app&project=ScriptToApp.prj&file=SeaSurfaceTemperatureExplorer.mlx&line=1)
+ 
 
 
 
